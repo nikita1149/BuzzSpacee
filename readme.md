@@ -1,5 +1,5 @@
 # Live Link 
-buzzspace-theta.vercel.app/
+https://buzzspace-theta.vercel.app
 
 ## Introduction
 
